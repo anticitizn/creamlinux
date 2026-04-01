@@ -21,7 +21,7 @@ The following games have been tested and do not currently work with creamlinux, 
 - European Truck Simulator / American Truck Simulator
 
 ## Installation
-The easiest way of installing is using **Novattz**'s Python script: https://github.com/Novattz/creamlinux-installer
+The easiest way of installing is using **Tickbase**'s Python script: https://gitlab.com/tickbaze/creamlinux-installer
 It automatically downloads and sets up creamlinux for Steam games that you choose, as well as fetching all DLC IDs for it. Keep in mind that you will still need the actual, **up-to-date** DLC files in the game. The install script and creamlinux do **not** automatically download any game content. You will have to run it again if new DLCs are released for a game.
 
 If the script does not work for you, you can install `creamlinux` manually. Beware that you will have to manually update `cream_api.ini` to contain the DLC IDs for the games that you choose.
