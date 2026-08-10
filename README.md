@@ -102,6 +102,9 @@ If creamlinux doesn't work for your game, there are a couple of known alternativ
 - [CreamAPI (Windows, MacOS, Linux)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576)
 - [AutoCreamAPI for Proton](https://github.com/MoebiusZero/AutoCreamAPI) (.NetCore3 required)
 
+# AI-generated Contributions
+Please, do not submit clearly AI-generated pull requests. I will not approve them. You are of course free to fork creamlinux and do whatever you want with it, but as the maintainer of this fork I do not feel comfortable with providing software to unsuspecting users that is not at least verified by me personally (and preferably by another competent person, namely the PR submitter). That being said, I don't care if you use LLMs in some way, as long as your contribution is not obviously generated and you feel confident in understanding (and explaining) both the changes themselves and the necessity behind them.
+
 # Credits
 The many contributors who submitted bugfixes, tested games and updated the list of DLC IDs :)
 
